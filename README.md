@@ -1,16 +1,15 @@
-## Hi there 👋
+# 💫 About Me:
+🔭 I’m currently working on<br>DevOps engineering tasks involving cloud infrastructure, CI/CD pipelines, containerized applications, and monitoring production systems.<br>👯 I’m looking to collaborate on<br>DevOps, Cloud, CI/CD automation, Kubernetes, Infrastructure as Code (Terraform/Ansible), and monitoring-related projects.<br>🤝 I’m looking for help with<br>Advanced Kubernetes concepts, scalable cloud architectures, and improving system reliability and performance.<br>🌱 I’m currently learning<br>Advanced Kubernetes, GitOps practices (Argo CD), Terraform best practices, and cloud cost optimization.<br>💬 Ask me about<br>AWS, Linux, Docker, Kubernetes, Jenkins, Ansible, CI/CD pipelines, monitoring tools (Grafana, Zabbix, Dynatrace), and production support.<br>⚡ Fun fact<br>I enjoy troubleshooting production issues and turning manual processes into automated workflows 🚀<br><br>🛠️ Skills & Tools<br>Cloud: AWS (EC2, S3, IAM, VPC, Auto Scaling, CloudWatch)<br>Containers & Orchestration: Docker, Kubernetes, Helm<br>CI/CD: Jenkins, GitLab CI, Argo CD, SonarQube<br>Configuration Management: Ansible, AWX, Ansible Tower<br>Monitoring & Observability: Grafana, Zabbix, Dynatrace, Prometheus<br>OS: Linux (RHEL, CentOS, Ubuntu)<br>Version Control: Git, Bitbucket<br>Security: IAM, Keycloak (UAM)<br><br>Experience<br><br>👩‍💼 DevOps Engineer – Lloyds Technology Center<br>📅 Jan 2024 – Present<br>Supporting and maintaining production infrastructure<br>Monitoring systems using Dynatrace<br>Handling incidents and alerts<br>Working with cloud and platform teams<br><br>👩‍💼 DevOps Engineer – Prodevans Technologies<br>📅 May 2021 – Jan 2024<br>CI/CD pipeline implementation using Jenkins<br>Kubernetes deployments and Dockerized applications<br>Infrastructure monitoring with Grafana and Zabbix<br>Linux automation using Ansible<br><br>Programming / Scripting Languages<br>Bash<br>YAML<br>Basic Python (for automation & scripting)
 
-<!--
-**srilekhasdev-coder/srilekhasdev-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# 💻 Tech Stack:
+![Apache Groovy](https://img.shields.io/badge/Apache%20Groovy-4298B8.svg?style=for-the-badge&logo=Apache+Groovy&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=srilekhasdev-coder&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=srilekhasdev-coder&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=srilekhasdev-coder&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+[![](https://visitcount.itsvg.in/api?id=srilekhasdev-coder&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
